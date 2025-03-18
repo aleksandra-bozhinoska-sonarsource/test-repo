@@ -12,5 +12,7 @@ public class App1
 
         System.out.println( "Hello World!" );
         String newIssue = "This should create another issue.";
+
+        String andAnother = "This should create yet another issue.";
     }
 }
