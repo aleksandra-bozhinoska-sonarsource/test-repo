@@ -14,5 +14,7 @@ public class App1
         String newIssue = "This should create another issue.";
 
         String andAnother = "This should create yet another issue.";
+
+        String andYetAnother = "This should create yet another issue.";
     }
 }
